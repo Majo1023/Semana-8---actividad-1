@@ -1,0 +1,3 @@
+Conectarse únicamente a redes Wi-Fi seguras y confiables.
+Bloquear los dispositivos con contraseña, PIN o biometría.
+Activar la autenticación en dos pasos
