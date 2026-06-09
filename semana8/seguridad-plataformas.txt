@@ -1,0 +1,5 @@
+Cerrar las sesiones que permanezcan inactivas por mucho tiempo.
+Evitar descargar archivos o programas de fuentes desconocidas.
+Verificar la identidad de los usuarios.
+Bloquear cuentas después de varios intentos fallidos de inicio de sesión.
+Eliminar o desactivar cuentas de usuarios que ya no participen en la comunidad.
